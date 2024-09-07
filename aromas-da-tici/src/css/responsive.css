@@ -1,0 +1,51 @@
+@media(max-width: 1500px) {
+    .imagem {
+        width: 300px;
+    }
+}
+
+@media(max-width: 450px) {
+    .logoimagem {
+        width: 250px;
+        height: 250px;
+    }
+
+    .logo {
+        font-size: 60px;
+    }
+
+    .subtitulo {
+        font-size: 30px;
+        margin: 0px;
+    }
+
+    .coluna {
+        display: inline-table;
+        justify-content: center;
+    }
+
+    .produto {
+        margin: 45px 45px 0px 45px;
+    }
+
+    .nome-produto {
+        width: 300px;
+    }
+
+    .preco-produto {
+        width: 300px;
+    }
+
+
+
+footer {
+    display: flex;
+    font-size: 10px;
+}
+
+#instagram {
+    margin: 0px 10px;
+    width: 10px;
+}
+
+}
